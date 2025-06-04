@@ -1,4 +1,4 @@
-فاطمه بلوچ 2, [04.06.25 23:34]
+
 #include <iostream>
 
 using namespace std;
